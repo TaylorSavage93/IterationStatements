@@ -1,0 +1,15 @@
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\bin\Debug\net6.0\MethodsLoopsAndConditionals-3.exe
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\bin\Debug\net6.0\MethodsLoopsAndConditionals-3.deps.json
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\bin\Debug\net6.0\MethodsLoopsAndConditionals-3.runtimeconfig.json
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\bin\Debug\net6.0\MethodsLoopsAndConditionals-3.dll
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\bin\Debug\net6.0\MethodsLoopsAndConditionals-3.pdb
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.dll
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\refint\MethodsLoopsAndConditionals-3.dll
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.pdb
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\MethodsLoopsAndConditionals-3.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\Repos\Iteration ex 1 and 3\MethodsLoopsAndConditionals-3\MethodsLoopsAndConditionals-3\obj\Debug\net6.0\ref\MethodsLoopsAndConditionals-3.dll
